@@ -21,7 +21,8 @@ The following is a link where you can get the data from: https://www.kaggle.com/
 
 
 ## Technologies Used
-R
+- R
+- Google Collaboratory
 
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns please do make a contribution to the code or 
